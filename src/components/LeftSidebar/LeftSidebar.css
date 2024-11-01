@@ -122,3 +122,17 @@
 .menu:hover .sub-menu {
     display: block;
 }
+
+.friends.border img {
+    border: 3px solid #07fff3;
+}
+
+.friends.border span {
+    color: #07fff3;
+}
+
+@media(max-width:900px) {
+    .ls {
+        width: 100%;
+    }
+}
